@@ -1,0 +1,13 @@
+## Nyxuri SwayFX effects configuration
+# effects_normal: Normal effects configuration. Stock translucent and background blur
+# Note: While Niri sets lower opacity for unfocused windows to , Sway's criteria do not natively support focus states. Instead, we use default_dim_inactive to achieve a similar effect.
+
+# Window manager side opacity affects text readability, use with caution.
+opacity 0.9
+default_dim_inactive 0.1
+
+blur enable
+blur_passes 3
+blur_radius 10
+blur_noise 0.001
+blur_saturation 2

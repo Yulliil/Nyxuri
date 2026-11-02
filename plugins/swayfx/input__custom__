@@ -1,0 +1,18 @@
+## Nyxuri SwayFX input configuration
+
+input type:keyboard {
+	numlock enabled
+}
+
+input type:touchpad {
+	tap enabled
+	natural_scroll enabled
+	# disable touchpad when typing
+	dwt enabled
+	# disable touchpad when trackpointing
+	dwtp enabled
+}
+
+input type:pointer {
+	pointer_accel -0.72
+}

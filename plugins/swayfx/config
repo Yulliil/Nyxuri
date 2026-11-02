@@ -1,0 +1,19 @@
+# Monitors config
+include "monitor"
+# Effects config (symlink to effects_normal)
+include "effects"
+# Input config
+include "input__custom__.kdl"
+# Layout config
+include "layout"
+# Animations config
+include "animations"
+# Window rules config
+include "rules"
+# Keybinds config
+include "binds"
+
+# User custom configuration
+# Write your own configurations here, this won't be coverd by Nyxuri updates
+# Also you can put your own scripts in __custom__/ directory
+include "__custom__"

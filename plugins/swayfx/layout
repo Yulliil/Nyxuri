@@ -1,0 +1,10 @@
+corner_radius 12
+
+gaps inner 12
+
+shadows enable
+shadow_blur_radius 10
+shadow_offset 0 0
+shadow_color #00000070
+
+client.focused #b6c7e7 #b6c7e7 #b6c7e7 #b6c7e780

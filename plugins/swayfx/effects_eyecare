@@ -1,0 +1,8 @@
+## Nyxuri SwayFX effects configuration
+# effects_eyecare: Blur disabled, solid windows
+
+opacity 1.0
+default_dim_inactive 0
+
+blur disable
+

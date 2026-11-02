@@ -1,0 +1,4 @@
+## Nyxuri SwayFX animations configuration
+# SwayFX provides only one configuration option on animations, this option will be applied to windows open/close, resize, layout changes and workspace switch.
+
+animation_duration_ms 150
